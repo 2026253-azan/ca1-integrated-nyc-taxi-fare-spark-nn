@@ -1,0 +1,9 @@
+pyspark==3.5.1
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow
+requests
+pyarrow
+jupyter
